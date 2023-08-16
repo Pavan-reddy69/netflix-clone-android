@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   navbar: {
     flexDirection: 'row',
     backgroundColor: '#000',
-    width:width,
+    width: width,
     
   },
   logo: {
@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
 
   },
   logo1: {
-    marginLeft: 45,
+    marginLeft:10,
     top: 12,
     height: 20,
     width: 20,
