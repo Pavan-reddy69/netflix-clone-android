@@ -131,7 +131,7 @@ const styles = StyleSheet.create({
     },
     overview: {
         color: 'white',
-        fontSize: 14,
+        fontSize: 12,
         backgroundColor: 'rgba(128, 128, 128, 0.3)',  
         width:windowWidth,
         
